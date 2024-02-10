@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<data>
+	
+	<home>
+		<content>FPO.Home.Content</content>
+	</home>
+	
+	<footer>2007 Designed by Course Vector</footer>
+	
+	<contact>
+		<email>
+			<title>email</title>
+			<content>gabriel@coursevector.com</content>
+		</email>
+		<phone>
+			<title>phone #</title>
+			<content>321.555.5555</content>
+		</phone>
+		<address>
+			<title>address</title>
+			<content>12345 Anywhere Street Orlando FL, 32828</content>
+		</address>
+	</contact>
+	
+	<products>
+		<title>FPO.Products.Title</title>
+		<content>FPO.Products.Content</content>
+		<list>
+			<item id="P1">
+				<title>FPO.Products.Item.Title</title>
+				<description>FPO.Products.Item.Description</description>
+			</item>
+			<item id="P2">
+				<title>FPO.Products.Item.Title</title>
+				<description>FPO.Products.Item.Description</description>
+			</item>
+			<item id="P3">
+				<title>FPO.Products.Item.Title</title>
+				<description>FPO.Products.Item.Description</description>
+			</item>
+		</list>
+	</products>
+	
+	<services>
+		<title>FPO.Services.Title</title>
+		<content>FPO.Services.Content</content>
+		<list>
+			<item id="S1">
+				<title>FPO.Services.Item.Title</title>
+				<description>FPO.Services.Item.Description</description>
+			</item>
+			<item id="S2">
+				<title>FPO.Services.Item.Title</title>
+				<description>FPO.Services.Item.Description</description>
+			</item>
+			<item id="S3">
+				<title>FPO.Services.Item.Title</title>
+				<description>FPO.Services.Item.Description</description>
+			</item>
+			<item id="S4">
+				<title>FPO.Services.Item.Title</title>
+				<description>FPO.Services.Item.Description</description>
+			</item>
+			<item id="S5">
+				<title>FPO.Services.Item.Title</title>
+				<description>FPO.Services.Item.Description</description>
+			</item>
+		</list>
+	</services>
+</data>
